@@ -1,0 +1,56 @@
+[2019-06-18 22:05:33] INFO [http-nio-8080-exec-8] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@3e3b9b07 by 01698749499<-----------------------
+[2019-06-18 22:09:00] INFO [http-nio-8080-exec-1] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@6556f7dc by 01698749499<-----------------------
+[2019-06-18 22:09:13] INFO [http-nio-8080-exec-7] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@692826d6 by 0398749499<-----------------------
+[2019-06-18 22:16:55] INFO [http-nio-8080-exec-5] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@6a4c8571 by 0398749499<-----------------------
+[2019-06-18 22:26:18] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@6114f429 by 0398749499<-----------------------
+[2019-06-18 22:27:26] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@7119c5c9 by 0398749499<-----------------------
+[2019-06-18 22:27:32] INFO [http-nio-8080-exec-7] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@5c1c2671 by 0398749499<-----------------------
+[2019-06-18 22:27:47] INFO [http-nio-8080-exec-5] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@55f1b417 by 0398749499<-----------------------
+[2019-06-18 22:33:52] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@41c30bae by 01698749499<-----------------------
+[2019-06-18 23:26:25] INFO [MQTT Call: server-app] AppConfig.lambda$mqttClient$0(119) | hello
+[2019-06-18 23:30:36] INFO [MQTT Call: server-app] AppConfig.lambda$mqttClient$0(119) | hello
+[2019-08-23 09:44:23] INFO [http-nio-8080-exec-1] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@1b05de9b by 0329727328<-----------------------
+[2019-08-23 09:47:15] INFO [http-nio-8080-exec-5] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@27a7ec08 by 0329727328<-----------------------
+[2019-08-23 09:47:33] INFO [http-nio-8080-exec-9] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@1814a745 by 0329727328<-----------------------
+[2019-08-23 09:51:11] INFO [http-nio-8080-exec-1] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 09:51:38] INFO [http-nio-8080-exec-10] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:05:49] INFO [http-nio-8080-exec-5] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:05:54] INFO [http-nio-8080-exec-4] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:05:57] INFO [http-nio-8080-exec-1] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:06:03] INFO [http-nio-8080-exec-9] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:06:22] INFO [http-nio-8080-exec-5] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:11:01] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@38e368bf by 0329727328<-----------------------
+[2019-08-23 10:11:02] INFO [http-nio-8080-exec-1] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:11:31] INFO [http-nio-8080-exec-3] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:14:22] INFO [http-nio-8080-exec-5] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@427231e0 by 0329727328<-----------------------
+[2019-08-23 10:14:23] INFO [http-nio-8080-exec-3] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:16:34] INFO [http-nio-8080-exec-4] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:16:37] INFO [http-nio-8080-exec-7] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@242aed42 by 0329727328<-----------------------
+[2019-08-23 10:16:38] INFO [http-nio-8080-exec-9] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:16:47] INFO [http-nio-8080-exec-2] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:17:23] INFO [http-nio-8080-exec-9] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:17:30] INFO [http-nio-8080-exec-2] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:23:00] INFO [http-nio-8080-exec-9] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:23:07] INFO [http-nio-8080-exec-6] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:23:09] INFO [http-nio-8080-exec-3] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:23:11] INFO [http-nio-8080-exec-9] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:23:22] INFO [http-nio-8080-exec-10] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:24:16] INFO [http-nio-8080-exec-2] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:25:00] INFO [http-nio-8080-exec-9] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:25:02] INFO [http-nio-8080-exec-4] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:25:46] INFO [http-nio-8080-exec-4] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:25:51] INFO [http-nio-8080-exec-2] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:26:52] INFO [http-nio-8080-exec-4] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:26:54] INFO [http-nio-8080-exec-5] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:26:59] INFO [http-nio-8080-exec-7] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@2fe71896 by 0329727328<-----------------------
+[2019-08-23 10:27:00] INFO [http-nio-8080-exec-9] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 10:27:02] INFO [http-nio-8080-exec-5] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 11:00:22] INFO [http-nio-8080-exec-1] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 11:00:24] INFO [http-nio-8080-exec-6] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 11:00:26] INFO [http-nio-8080-exec-1] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-08-23 11:12:31] INFO [http-nio-8080-exec-2] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@bb85b63 by 0329727328<-----------------------
+[2019-08-23 11:16:38] INFO [http-nio-8080-exec-7] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@155f79d7 by 0329727328<-----------------------
+[2019-08-23 11:29:21] INFO [http-nio-8080-exec-6] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@7c95ff72 by 0329727328<-----------------------
+[2019-08-23 12:56:37] INFO [http-nio-8080-exec-8] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@679f8a11 by 0329727328<-----------------------
+[2019-08-23 15:10:31] INFO [http-nio-8080-exec-2] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@55bcb8a6 by 0329727328<-----------------------
+[2019-08-23 16:25:07] INFO [http-nio-8080-exec-10] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@53018612 by 0329727328<-----------------------

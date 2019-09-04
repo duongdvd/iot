@@ -1,0 +1,98 @@
+[2019-06-04 11:17:57] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@42d91d89 by 0398749499<-----------------------
+[2019-06-04 11:18:04] INFO [http-nio-8080-exec-1] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@a5a767c by 0398749499<-----------------------
+[2019-06-04 11:24:24] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@5d153567 by 0398749499<-----------------------
+[2019-06-04 11:24:31] INFO [clientInboundChannel-1] ReleyController.controlOnReley(45) | =====================1
+[2019-06-04 11:25:13] INFO [clientInboundChannel-4] ReleyController.controlOnReley(45) | =====================1
+[2019-06-04 11:25:42] INFO [clientInboundChannel-7] ReleyController.controlOnReley(45) | =====================1
+[2019-06-04 11:25:54] INFO [clientInboundChannel-10] ReleyController.controlOnReley(45) | =====================1
+[2019-06-04 11:25:55] INFO [clientInboundChannel-6] ReleyController.controlOnReley(45) | =====================1
+[2019-06-04 11:29:15] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@6a6676b1 by 0398749499<-----------------------
+[2019-06-04 11:29:20] INFO [clientInboundChannel-1] ReleyController.controlOnReley(45) | =====================1
+[2019-06-04 11:29:59] INFO [clientInboundChannel-7] ReleyController.controlOnReley(45) | =====================1
+[2019-06-04 11:33:11] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@46c0aeee by 0398749499<-----------------------
+[2019-06-04 11:33:21] INFO [clientInboundChannel-1] ReleyController.controlOnReley(45) | =====================1
+[2019-06-04 11:34:59] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@372a6eb1 by 0398749499<-----------------------
+[2019-06-04 11:35:14] INFO [clientInboundChannel-1] ReleyController.controlOnReley(45) | =====================1
+[2019-06-04 11:38:57] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@5d153567 by 0398749499<-----------------------
+[2019-06-04 11:38:59] INFO [clientInboundChannel-1] ReleyController.controlOnReley(45) | =====================1
+[2019-06-04 11:40:24] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@25efd5f7 by 0398749499<-----------------------
+[2019-06-04 11:40:31] INFO [clientInboundChannel-1] ReleyController.controlOnReley(45) | =====================1
+[2019-06-04 11:45:09] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@66fea121 by 0398749499<-----------------------
+[2019-06-04 11:45:12] INFO [clientInboundChannel-1] ReleyController.controlOnReley(45) | =====================1
+[2019-06-04 11:48:06] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@2373abb4 by 0398749499<-----------------------
+[2019-06-04 11:48:09] INFO [clientInboundChannel-1] ReleyController.controlOnReley(45) | =====================1
+[2019-06-04 11:52:23] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@314c4a52 by 0398749499<-----------------------
+[2019-06-04 11:52:30] INFO [clientInboundChannel-4] ReleyController.controlOnReley(45) | =====================1
+[2019-06-04 11:55:42] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@2a757ae6 by 0398749499<-----------------------
+[2019-06-04 11:57:44] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@35978e0a by 0398749499<-----------------------
+[2019-06-04 11:57:53] INFO [clientInboundChannel-1] ReleyController.controlOnReley(45) | =====================1
+[2019-06-04 11:58:55] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@68cc4efb by 0398749499<-----------------------
+[2019-06-04 12:00:56] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@30201ea0 by 0398749499<-----------------------
+[2019-06-04 12:05:00] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@366dae82 by 0398749499<-----------------------
+[2019-06-04 12:06:48] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@35f8d5f9 by 0398749499<-----------------------
+[2019-06-04 12:11:23] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@6b9ede5a by 0398749499<-----------------------
+[2019-06-04 12:11:34] INFO [clientInboundChannel-4] ReleyController.controlOnReley(45) | =====================1
+[2019-06-04 12:12:47] INFO [http-nio-8080-exec-2] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@211aea64 by 0398749499<-----------------------
+[2019-06-04 12:13:10] INFO [clientInboundChannel-14] ReleyController.controlOnReley(45) | =====================1
+[2019-06-04 12:13:59] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@7b5fe546 by 0398749499<-----------------------
+[2019-06-04 12:15:45] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@6f05a8cd by 01698749499<-----------------------
+[2019-06-04 12:19:32] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@39d1aedd by 01698749499<-----------------------
+[2019-06-04 12:22:15] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@a10a833 by 0398749499<-----------------------
+[2019-06-04 12:22:31] INFO [http-nio-8080-exec-8] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@3ff60db by 01698749499<-----------------------
+[2019-06-04 12:25:25] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@16904af1 by 0398749499<-----------------------
+[2019-06-04 12:26:03] INFO [http-nio-8080-exec-6] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@172ece46 by 01698749499<-----------------------
+[2019-06-04 12:27:03] INFO [http-nio-8080-exec-5] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@5e996fa6 by 01698749499<-----------------------
+[2019-06-04 12:28:42] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@42846e3a by 01698749499<-----------------------
+[2019-06-04 12:30:09] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@6628ec96 by 01698749499<-----------------------
+[2019-06-04 16:14:53] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@2ed3f86c by 0398749499<-----------------------
+[2019-06-04 16:15:27] INFO [http-nio-8080-exec-2] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@3c963a3b by 01698749499<-----------------------
+[2019-06-04 16:16:46] INFO [clientInboundChannel-12] ReleyController.controlOnReley(48) | =====================1
+[2019-06-04 16:34:11] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@26c5d046 by 01698749499<-----------------------
+[2019-06-04 16:35:10] INFO [clientInboundChannel-4] ReleyController.controlOnReley(48) | =====================1
+[2019-06-04 16:54:49] INFO [main] WebSocketConfig.handshakeHandler(64) | Client is connected
+[2019-06-04 16:54:49] INFO [main] WebSocketConfig.handshakeHandler(67) | ============================
+[2019-06-04 16:55:10] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@29bcc392 by 01698749499<-----------------------
+[2019-06-04 17:03:17] INFO [main] WebSocketConfig.handshakeHandler(76) | Client is connected
+[2019-06-04 17:03:17] INFO [main] WebSocketConfig.handshakeHandler(79) | ============================
+[2019-06-04 17:03:31] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@32007630 by 01698749499<-----------------------
+[2019-06-04 17:03:32] INFO [http-nio-8080-exec-8] WebSocketConfig.beforeHandshake(46) | -=======
+[2019-06-04 17:03:33] INFO [http-nio-8080-exec-8] WebSocketConfig.afterHandshake(52) | -=======
+[2019-06-04 17:03:37] INFO [clientInboundChannel-4] ReleyController.controlOnReley(48) | =====================1
+[2019-06-04 17:04:29] INFO [http-nio-8080-exec-7] WebSocketConfig.beforeHandshake(46) | -=======
+[2019-06-04 17:04:29] INFO [http-nio-8080-exec-7] WebSocketConfig.afterHandshake(52) | -=======
+[2019-06-04 17:08:24] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@445a31ea by 01698749499<-----------------------
+[2019-06-04 17:10:39] INFO [http-nio-8080-exec-7] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@fd4bc35 by 01698749495<-----------------------
+[2019-06-04 17:11:36] INFO [http-nio-8080-exec-6] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@4ea7c98f by 0398749499<-----------------------
+[2019-06-04 17:12:52] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@66fea121 by 01698749499<-----------------------
+[2019-06-04 17:17:25] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@73946f48 by 0398749499<-----------------------
+[2019-06-04 17:17:26] INFO [http-nio-8080-exec-7] WebSocketConfig.beforeHandshake(70) | MQTT is Open!
+[2019-06-04 17:17:26] INFO [http-nio-8080-exec-7] WebSocketConfig.afterHandshake(77) | MQTT Connected is true
+[2019-06-04 17:17:30] INFO [clientInboundChannel-4] ReleyController.controlOnReley(48) | =====================1
+[2019-06-04 17:53:56] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@e1be7dd by 0398749499<-----------------------
+[2019-06-04 17:53:57] INFO [http-nio-8080-exec-10] WebSocketConfig.beforeHandshake(70) | MQTT is Open!
+[2019-06-04 17:53:57] INFO [http-nio-8080-exec-10] WebSocketConfig.afterHandshake(77) | MQTT Connected is true
+[2019-06-04 17:56:12] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@672e6825 by 0398749499<-----------------------
+[2019-06-04 17:56:13] INFO [http-nio-8080-exec-9] WebSocketConfig.beforeHandshake(70) | MQTT is Open!
+[2019-06-04 17:56:13] INFO [http-nio-8080-exec-9] WebSocketConfig.afterHandshake(77) | MQTT Connected is true
+[2019-06-04 17:59:40] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@7cfa6215 by 0398749499<-----------------------
+[2019-06-04 17:59:45] INFO [http-nio-8080-exec-7] UserAuthProvider.authenticate(33) | --------------------- > Found com.future.iot.model.Employee@4310fcb by 0398749499<-----------------------
+[2019-06-04 17:59:46] INFO [http-nio-8080-exec-9] WebSocketConfig.beforeHandshake(70) | MQTT is Open!
+[2019-06-04 17:59:46] INFO [http-nio-8080-exec-9] WebSocketConfig.afterHandshake(77) | MQTT Connected is true
+[2019-06-04 18:03:45] INFO [http-nio-8080-exec-6] WebSocketConfig.beforeHandshake(70) | MQTT is Open!
+[2019-06-04 18:03:45] INFO [http-nio-8080-exec-6] WebSocketConfig.afterHandshake(77) | MQTT Connected is true
+[2019-06-04 18:03:49] INFO [http-nio-8080-exec-2] WebSocketConfig.beforeHandshake(70) | MQTT is Open!
+[2019-06-04 18:03:49] INFO [http-nio-8080-exec-2] WebSocketConfig.afterHandshake(77) | MQTT Connected is true
+[2019-06-04 18:03:51] INFO [http-nio-8080-exec-7] WebSocketConfig.beforeHandshake(70) | MQTT is Open!
+[2019-06-04 18:03:51] INFO [http-nio-8080-exec-7] WebSocketConfig.afterHandshake(77) | MQTT Connected is true
+[2019-06-04 18:03:59] INFO [http-nio-8080-exec-8] WebSocketConfig.beforeHandshake(70) | MQTT is Open!
+[2019-06-04 18:03:59] INFO [http-nio-8080-exec-8] WebSocketConfig.afterHandshake(77) | MQTT Connected is true
+[2019-06-04 18:04:01] INFO [http-nio-8080-exec-9] WebSocketConfig.beforeHandshake(70) | MQTT is Open!
+[2019-06-04 18:04:01] INFO [http-nio-8080-exec-9] WebSocketConfig.afterHandshake(77) | MQTT Connected is true
+[2019-06-04 18:04:05] INFO [http-nio-8080-exec-4] WebSocketConfig.beforeHandshake(70) | MQTT is Open!
+[2019-06-04 18:04:05] INFO [http-nio-8080-exec-4] WebSocketConfig.afterHandshake(77) | MQTT Connected is true
+[2019-06-04 18:05:01] INFO [http-nio-8080-exec-4] WebSocketConfig.beforeHandshake(70) | MQTT is Open!
+[2019-06-04 18:05:01] INFO [http-nio-8080-exec-4] WebSocketConfig.afterHandshake(77) | MQTT Connected is true
+[2019-06-04 18:05:04] INFO [http-nio-8080-exec-4] WebSocketConfig.beforeHandshake(70) | MQTT is Open!
+[2019-06-04 18:05:04] INFO [http-nio-8080-exec-4] WebSocketConfig.afterHandshake(77) | MQTT Connected is true
+[2019-06-04 18:05:07] INFO [http-nio-8080-exec-1] WebSocketConfig.beforeHandshake(70) | MQTT is Open!
+[2019-06-04 18:05:07] INFO [http-nio-8080-exec-1] WebSocketConfig.afterHandshake(77) | MQTT Connected is true

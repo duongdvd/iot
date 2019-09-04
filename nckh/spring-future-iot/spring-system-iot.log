@@ -1,0 +1,31 @@
+[2019-09-04 14:47:14] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@4a497ea4 by 0329727328<-----------------------
+[2019-09-04 14:52:34] INFO [http-nio-8080-exec-6] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-09-04 14:52:56] INFO [http-nio-8080-exec-8] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-09-04 14:53:37] INFO [http-nio-8080-exec-2] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@77e58f8a by 0329727328<-----------------------
+[2019-09-04 14:55:48] INFO [http-nio-8080-exec-2] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-09-04 14:56:05] INFO [http-nio-8080-exec-1] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-09-04 14:58:57] INFO [http-nio-8080-exec-2] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-09-04 15:02:51] INFO [http-nio-8080-exec-6] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@11df1139 by 0329727328<-----------------------
+[2019-09-04 15:04:58] INFO [http-nio-8080-exec-7] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@211b5dce by 0329727328<-----------------------
+[2019-09-04 15:05:59] INFO [http-nio-8080-exec-4] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-09-04 15:08:35] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@2c72867a by 0329727328<-----------------------
+[2019-09-04 15:09:06] INFO [http-nio-8080-exec-8] WebSocketConfig.beforeHandshake(73) | MQTT is Open!
+[2019-09-04 15:32:50] INFO [MQTT Call: server-app] AppConfig.lambda$mqttClient$0(118) | cc
+[2019-09-04 15:32:58] INFO [MQTT Call: server-app] AppConfig.lambda$mqttClient$0(118) | cc
+[2019-09-04 15:33:23] INFO [MQTT Call: server-app] AppConfig.lambda$mqttClient$0(118) | cc
+[2019-09-04 16:27:13] INFO [http-nio-8080-exec-10] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@6797ea93 by 0329727328<-----------------------
+[2019-09-04 16:27:25] INFO [http-nio-8080-exec-8] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@14ecd732 by 0329727328<-----------------------
+[2019-09-04 16:27:39] INFO [http-nio-8080-exec-9] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@c531790 by 0329727328<-----------------------
+[2019-09-04 16:28:25] INFO [http-nio-8080-exec-6] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@3f45e469 by 0329727328<-----------------------
+[2019-09-04 16:32:44] INFO [http-nio-8080-exec-4] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@1b107dd3 by 0329727328<-----------------------
+[2019-09-04 16:41:51] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@53c2044c by 0329727328<-----------------------
+[2019-09-04 16:44:10] INFO [http-nio-8080-exec-8] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@260f53f by 0329727328<-----------------------
+[2019-09-04 16:52:23] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@20bf0642 by 03297273281<-----------------------
+[2019-09-04 16:56:39] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@4cf24d98 by 0329727328<-----------------------
+[2019-09-04 17:01:33] INFO [http-nio-8080-exec-10] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@25d38c3b by 0329727328<-----------------------
+[2019-09-04 17:02:19] INFO [http-nio-8080-exec-8] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@5c3b06b5 by 0329727328<-----------------------
+[2019-09-04 17:03:52] INFO [http-nio-8080-exec-2] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@403df332 by 0329727328<-----------------------
+[2019-09-04 17:04:55] INFO [http-nio-8080-exec-7] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@193e3938 by 0329727328<-----------------------
+[2019-09-04 17:07:22] INFO [http-nio-8080-exec-3] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@20e26ef3 by 0329727328<-----------------------
+[2019-09-04 17:18:50] INFO [http-nio-8080-exec-2] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@3f9618dc by 0329727328<-----------------------
+[2019-09-04 17:22:38] INFO [http-nio-8080-exec-7] UserAuthProvider.authenticate(34) | --------------------- > Found com.future.iot.model.Employee@20ac36a6 by 0329727328<-----------------------

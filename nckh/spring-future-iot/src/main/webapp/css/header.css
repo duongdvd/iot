@@ -1,0 +1,48 @@
+.navbar {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    box-shadow: 0 2px 6px #acacac;
+    font-size: 14px;
+    font-weight: 700;
+}
+.navbar-default .navbar-toggle {
+    border: none;
+    margin-right: 0;
+    margin-left: 10px;
+
+}
+
+
+.navbar-nav{
+    text-align: center;
+}
+
+.navbar li a {
+    color: #000000 !important;
+    background-color: #ffffff00;
+}
+
+.navbar-nav li a:hover {
+    color: #FF7519 !important;
+    background-color: #ffffff00;
+}
+
+
+
+.btn.btn-rounded {
+    border-radius: 50px;
+}
+.btn.btn-fw {
+    min-width: 120px;
+    margin: 10px;
+    font-weight: 700;
+    color: #fff;
+    background-color: #FF7519;
+    border-color: #FF7519;
+}
+.btn.btn-fw:hover{
+    color: #fff;
+}
